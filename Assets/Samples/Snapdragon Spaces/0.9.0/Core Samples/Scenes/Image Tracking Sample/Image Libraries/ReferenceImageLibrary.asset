@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5244323173654290841
+  m_GuidHigh: 3772484369985291432
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5258779839654437431
+      m_GuidHigh: 17875128022805066635
+    m_SerializedTextureGuid:
+      m_GuidLow: 5306410279614784786
+      m_GuidHigh: 1541721399137258745
+    m_Size: {x: 0.18380843, y: 0.26482227}
+    m_SpecifySize: 1
+    m_Name: Q1 image
+    m_Texture: {fileID: 2800000, guid: e4eba512280849a4f9cc31b2714b6515, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4708077010316871081
+      m_GuidHigh: 16563719231133250714
+    m_SerializedTextureGuid:
+      m_GuidLow: 11350446237151975049
+      m_GuidHigh: 15152655975384241672
+    m_Size: {x: 0.1838084, y: 0.1838084}
+    m_SpecifySize: 1
+    m_Name: Q2 image
+    m_Texture: {fileID: 2800000, guid: 279cd689e2b79d8408567ad0530c49d2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5687496565015644834
+      m_GuidHigh: 8466513416001172909
+    m_SerializedTextureGuid:
+      m_GuidLow: 7270001994130739494
+      m_GuidHigh: 6700491558144455896
+    m_Size: {x: 0.1838084, y: 0.13174938}
+    m_SpecifySize: 1
+    m_Name: Q3 image
+    m_Texture: {fileID: 2800000, guid: a88b51263c4b64e4d834b44792edfc5c, type: 3}

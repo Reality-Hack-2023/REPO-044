@@ -27,7 +27,7 @@ namespace Qualcomm.Snapdragon.Spaces.Samples
 
         public override void OnEnable() {
             base.OnEnable();
-//            arImageManager = GameObject.FindObjectOfType<ARTrackedImageManager>(); //HACK
+            arImageManager = GameObject.FindObjectOfType<ARTrackedImageManager>();
             arImageManager.trackedImagesChanged += OnTrackedImagesChanged;
         }
 
@@ -44,7 +44,7 @@ namespace Qualcomm.Snapdragon.Spaces.Samples
                     Q2Model.SetActive(false);
                     Q3Model.SetActive(false);}
 
-                    SceneManager.LoadScene(1);
+                    //SceneManager.LoadScene(1);
                 
                 if (trackedImage.referenceImage.name == "Q2 image"){
                     Q2Model.transform.position = trackedImage.transform.position;
