@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 63ac4ef74407005499267f678ced0cde
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GazePointer: {instanceID: 0}
+  - DevicePointer: {instanceID: 0}
+  - SwitchInputAction: {instanceID: 0}
+  - arImageManager: {instanceID: 0}
+  - Q1Model: {instanceID: 0}
+  - Q2Model: {instanceID: 0}
+  - Q3Model: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
